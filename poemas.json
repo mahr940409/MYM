@@ -1,49 +1,48 @@
 {
-    "poemas": [
-      {
-        "id": 1,
-        "contenido": "Siempre he creído que la vida nos brinda oportunidades únicas, momentos que llegan como regalos inesperados. Conocerte y que entraras en mi vida ha sido, sin duda, una de esas oportunidades que atesoro con todo mi corazón. Durante mucho tiempo, pensé que mi propósito era servir a los demás, siempre poniéndolos primero, pero en ese proceso olvidé algo importante: a mí mismo. Entonces, apareciste tú, como un rayo de luz en medio de la rutina, y me enseñaste algo que jamás imaginé: que también debo cuidarme, que merezco pensar en mí y valorarme. Con tu llegada, no solo iluminaste mis días, sino que me mostraste una forma de vivir más plena y auténtica. Gracias a ti, aprendí a enfrentar mis inseguridades, a aceptar mis imperfecciones y a verlas como parte de quien soy. Me ayudaste a descubrir que la felicidad verdadera no depende de las apariencias, sino de los pequeños momentos compartidos, de las risas sinceras y de la paz que siento cuando estoy contigo. Tu presencia le dio un nuevo sentido a mi mundo, un propósito diferente que no sabía que necesitaba. Gracias por llegar a mi vida, por llenarla de alegría y por mostrarme que ser feliz es posible, realmente posible. No tengo palabras suficientes para agradecerte todo lo que haces por mí, todo lo que eres. Me encantas, me encantas muchísimo, y cada día me doy cuenta de cuánto significas para mí. No dejo de sentirme afortunado por tenerte en mi vida. Me encantas."
-      },
-      {
-        "id": 2,
-        "contenido": "Mi amor, no tienes idea de cuánto tuve que contenerme para no traerte abrazada todo el camino hasta aquí. Desde el momento en que apareciste, iluminaste mi mañana con solo verte, como si el sol mismo se reflejara en tu sonrisa. Ese beso de buenos días que me regalaste no solo plasmó una sonrisa en mi rostro, sino también en mi alma, una sonrisa que podría durar todo el día y más allá. No hay nada en este mundo que pueda reiniciar mi mente y llenar mi corazón de paz como lo hace un beso tuyo. Tus labios, tan dulces y perfectos, tienen el poder de transformar cualquier pensamiento en felicidad pura. Eres mi refugio, mi calma y mi mayor inspiración, y cada instante contigo me hace sentir el hombre más afortunado del universo."
-      },
-      {
-        "id": 3,
-        "contenido": "Quiero que sepas que el momento especial que compartimos ayer fue simplemente espectacular. Me encantas y ahora mucho más, porque sé que nos comprendemos tanto emocional como físicamente. Conectar de esa forma tan única nos demostró que, cuando estamos juntos, no queremos otra cosa más que hacernos felices. Gracias por compartir casi todo el día conmigo. Sé que fue especial para los dos. Alegras mis mañanas, mis tardes y mis noches con esa hermosa sonrisa. Mi cosita hermosa, me encantas muchísimo y deseo seguir haciéndote feliz, mi rarita."
-      },
-      {
-        "id": 4,
-        "contenido": "Bueno cosita mía, ya que no puedo dormir no sé por qué te voy a escribir un mensajito un poco largo de buenos días. Me encantas en la mañana en la tarde y en la noche, cuando te enojas cuando eres feliz cuando te ríes, me encantas cada día más me gustas mucho y eso siempre te lo voy a recordar amor, gracias por llegar a mi vida y por estar allí, sé que eres una mujer súper especial y siempre te lo voy a hacer saber no perderé ninguna oportunidad para decirte que me gustas mucho y cuánto me encantas te mando un delicioso beso y un rico abrazo y deseo que tengas un lindo y maravilloso día. ❤️❤️❤️❤️❤️"
-      },
-      {
-        "id": 5,
-        "contenido": "Tus besos son mi mayor adicción, una dulce droga a la que no puedo ni quiero resistirme. Estoy completamente rendido a ellos y a ti. Me encantas, me gustas más de lo que puedo expresar, y hacerte feliz se ha convertido en mi meta diaria. Eres increíblemente especial en mi vida, mi rarita, mi cosita hermosa. Tienes el poder de encender un fuego en mí que no puedo controlar, haciendo que mi deseo y mi amor por ti estén siempre al máximo. De todo corazón, quiero que sepas cuánto me encantas. Eres la luz que guía mis días y la razón de mi locura más dulce."
-      },
-      {
-        "id": 6,
-        "contenido": "Amor mío, te escribo un poco tarde, no porque hayas dejado de inspirarme, sino porque no había encontrado el momento perfecto para estar a solas y dedicarte estas palabras. Quiero que sepas que solo con verte dibujas una sonrisa en mi rostro. Me encantas, muchísimo, y no puedo agradecerte lo suficiente por ser parte de mi vida."
-      },
-      {
-        "id": 7,
-        "contenido": "Amor, hace un mes me atreví a robarte medio beso y ese instante desató todo lo que ahora sentimos el uno por el otro. Hoy, un mes después, estamos aquí, como si el destino quisiera hablarnos, como si todo estuviera escrito. No puedo dejar de decirte cuánto me encantas, mi dulce chocolatito, y lo inmensamente feliz que me hace estar tan cerca de ti."
-      },
-      {
-        "id": 8,
-        "contenido": "Amor mío, aunque no lo creas, no se me ha olvidado escribirte tu mensaje del día. Quiero que sepas cuánto significas para mí. Ver ese hermoso rostro tuyo es la chispa que enciende mi energía y hace que todo en mi día cobre sentido. Tu sonrisa tiene el poder de mejorar mi mundo y llenar mi corazón de alegría. Eres mi fuente de inspiración, mi refugio y mi razón para sonreír. No hay palabras suficientes para describir cuánto me encantas y lo agradecido que estoy de tenerte."
-      },
-      {
-        "id": 9,
-        "contenido": "Eres esa mujer que hace desear que el tiempo se detenga estando a su lado y sé que, aunque la marcha del tiempo es imparable, un beso tuyo me hace olvidar todas las leyes físicas que he aprendido. Te mando muchos besos y espero todos me los cobres el sábado amor."
-      },
-      {
-        "id": 10,
-        "contenido": "Como siempre, mi mayor alegría es dibujar una sonrisa en tu hermoso rostro con las palabras que tú inspiras. Eres maravillosa, y cada gesto tuyo me encanta más. Admiro cómo me cuidas, cómo me proteges tanto y la intensidad con la que me regalas tus palabras bonitas. Sé que no siempre es fácil para ti, pero déjame decirte algo desde lo más profundo de mi corazón: TE QUIERO. Nunca me cansaré de escribir para ti, de agradecerte por llenar mi mundo de colores, de vida, y de magia. Te envío un sinfín de besos y abrazos, porque contigo todo cobra sentido. Gracias por ser tú, por estar aquí, y por hacerme tan feliz. ❤️"
-      },
-      {
-        "id": 11,
-        "contenido": "Esta mañana me desperté pensando en ti, como muchas otras veces. No importa cuánto tiempo pase, cada momento lejos de tus mensajes, de tu voz, o de ti, se siente como una eternidad. Me doy cuenta de cuánto llenas mi vida de luz, de alegría, y de motivos para sonreír. Me encantas, y aunque sé que lo sabes, no me cansaré de repetírtelo una y otra vez. Eres hermosa, no solo por fuera, sino por todo lo que eres, por tu manera de ser, por cómo haces que todo a tu alrededor cobre sentido. Eres mi chocolatito, mi cosita rica, y cada día me encantas un poco más. Hay algo en ti que me envuelve, algo que hace que quiera gritarle al mundo lo increíble que eres. No sé qué haría sin ti, pero sí sé que contigo todo es mejor. Me encantas, me fascinas, y no hay nada que me haga más feliz que recordártelo. ❤️"
-      }
-    ]
-  }
-  
+  "poemas": [
+    {
+      "title": "1",
+      "content": "Siempre he creído que la vida nos brinda oportunidades únicas, momentos que llegan como regalos inesperados. Conocerte y que entraras en mi vida ha sido, sin duda, una de esas oportunidades que atesoro con todo mi corazón. Durante mucho tiempo, pensé que mi propósito era servir a los demás, siempre poniéndolos primero, pero en ese proceso olvidé algo importante: a mí mismo. Entonces, apareciste tú, como un rayo de luz en medio de la rutina, y me enseñaste algo que jamás imaginé: que también debo cuidarme, que merezco pensar en mí y valorarme. Con tu llegada, no solo iluminaste mis días, sino que me mostraste una forma de vivir más plena y auténtica. Gracias a ti, aprendí a enfrentar mis inseguridades, a aceptar mis imperfecciones y a verlas como parte de quien soy. Me ayudaste a descubrir que la felicidad verdadera no depende de las apariencias, sino de los pequeños momentos compartidos, de las risas sinceras y de la paz que siento cuando estoy contigo. Tu presencia le dio un nuevo sentido a mi mundo, un propósito diferente que no sabía que necesitaba. Gracias por llegar a mi vida, por llenarla de alegría y por mostrarme que ser feliz es posible, realmente posible. No tengo palabras suficientes para agradecerte todo lo que haces por mí, todo lo que eres. Me encantas, me encantas muchísimo, y cada día me doy cuenta de cuánto significas para mí. No dejo de sentirme afortunado por tenerte en mi vida. Me encantas."
+    },
+    {
+      "title": "2",
+      "content": "Mi amor, no tienes idea de cuánto tuve que contenerme para no traerte abrazada todo el camino hasta aquí. Desde el momento en que apareciste, iluminaste mi mañana con solo verte, como si el sol mismo se reflejara en tu sonrisa. Ese beso de buenos días que me regalaste no solo plasmó una sonrisa en mi rostro, sino también en mi alma, una sonrisa que podría durar todo el día y más allá. No hay nada en este mundo que pueda reiniciar mi mente y llenar mi corazón de paz como lo hace un beso tuyo. Tus labios, tan dulces y perfectos, tienen el poder de transformar cualquier pensamiento en felicidad pura. Eres mi refugio, mi calma y mi mayor inspiración, y cada instante contigo me hace sentir el hombre más afortunado del universo."
+    },
+    {
+      "title": "3",
+      "content": "Quiero que sepas que el momento especial que compartimos ayer fue simplemente espectacular. Me encantas y ahora mucho más, porque sé que nos comprendemos tanto emocional como físicamente. Conectar de esa forma tan única nos demostró que, cuando estamos juntos, no queremos otra cosa más que hacernos felices. Gracias por compartir casi todo el día conmigo. Sé que fue especial para los dos. Alegras mis mañanas, mis tardes y mis noches con esa hermosa sonrisa. Mi cosita hermosa, me encantas muchísimo y deseo seguir haciéndote feliz, mi rarita."
+    },
+    {
+      "title": "4",
+      "content": "Bueno cosita mía, ya que no puedo dormir no sé por qué te voy a escribir un mensajito un poco largo de buenos días. Me encantas en la mañana en la tarde y en la noche, cuando te enojas cuando eres feliz cuando te ríes, me encantas cada día más me gustas mucho y eso siempre te lo voy a recordar amor, gracias por llegar a mi vida y por estar allí, sé que eres una mujer súper especial y siempre te lo voy a hacer saber no perderé ninguna oportunidad para decirte que me gustas mucho y cuánto me encantas te mando un delicioso beso y un rico abrazo y deseo que tengas un lindo y maravilloso día. ❤️❤️❤️❤️❤️"
+    },
+    {
+      "title": "5",
+      "content": "Tus besos son mi mayor adicción, una dulce droga a la que no puedo ni quiero resistirme. Estoy completamente rendido a ellos y a ti. Me encantas, me gustas más de lo que puedo expresar, y hacerte feliz se ha convertido en mi meta diaria. Eres increíblemente especial en mi vida, mi rarita, mi cosita hermosa. Tienes el poder de encender un fuego en mí que no puedo controlar, haciendo que mi deseo y mi amor por ti estén siempre al máximo. De todo corazón, quiero que sepas cuánto me encantas. Eres la luz que guía mis días y la razón de mi locura más dulce."
+    },
+    {
+      "title": "6",
+      "content": "Amor mío, te escribo un poco tarde, no porque hayas dejado de inspirarme, sino porque no había encontrado el momento perfecto para estar a solas y dedicarte estas palabras. Quiero que sepas que solo con verte dibujas una sonrisa en mi rostro. Me encantas, muchísimo, y no puedo agradecerte lo suficiente por ser parte de mi vida."
+    },
+    {
+      "title": "7",
+      "content": "Amor, hace un mes me atreví a robarte medio beso y ese instante desató todo lo que ahora sentimos el uno por el otro. Hoy, un mes después, estamos aquí, como si el destino quisiera hablarnos, como si todo estuviera escrito. No puedo dejar de decirte cuánto me encantas, mi dulce chocolatito, y lo inmensamente feliz que me hace estar tan cerca de ti."
+    },
+    {
+      "title": "8",
+      "content": "Amor mío, aunque no lo creas, no se me ha olvidado escribirte tu mensaje del día. Quiero que sepas cuánto significas para mí. Ver ese hermoso rostro tuyo es la chispa que enciende mi energía y hace que todo en mi día cobre sentido. Tu sonrisa tiene el poder de mejorar mi mundo y llenar mi corazón de alegría. Eres mi fuente de inspiración, mi refugio y mi razón para sonreír. No hay palabras suficientes para describir cuánto me encantas y lo agradecido que estoy de tenerte."
+    },
+    {
+      "title": "9",
+      "content": "Eres esa mujer que hace desear que el tiempo se detenga estando a su lado y sé que, aunque la marcha del tiempo es imparable, un beso tuyo me hace olvidar todas las leyes físicas que he aprendido. Te mando muchos besos y espero todos me los cobres el sábado amor."
+    },
+    {
+      "title": "10",
+      "content": "Como siempre, mi mayor alegría es dibujar una sonrisa en tu hermoso rostro con las palabras que tú inspiras. Eres maravillosa, y cada gesto tuyo me encanta más. Admiro cómo me cuidas, cómo me proteges tanto y la intensidad con la que me regalas tus palabras bonitas. Sé que no siempre es fácil para ti, pero déjame decirte algo desde lo más profundo de mi corazón: TE QUIERO. Nunca me cansaré de escribir para ti, de agradecerte por llenar mi mundo de colores, de vida, y de magia. Te envío un sinfín de besos y abrazos, porque contigo todo cobra sentido. Gracias por ser tú, por estar aquí, y por hacerme tan feliz. ❤️"
+    },
+    {
+      "title": "11",
+      "content": "Esta mañana me desperté pensando en ti, como muchas otras veces. No importa cuánto tiempo pase, cada momento lejos de tus mensajes, de tu voz, o de ti, se siente como una eternidad. Me doy cuenta de cuánto llenas mi vida de luz, de alegría, y de motivos para sonreír. Me encantas, y aunque sé que lo sabes, no me cansaré de repetírtelo una y otra vez. Eres hermosa, no solo por fuera, sino por todo lo que eres, por tu manera de ser, por cómo haces que todo a tu alrededor cobre sentido. Eres mi chocolatito, mi cosita rica, y cada día me encantas un poco más. Hay algo en ti que me envuelve, algo que hace que quiera gritarle al mundo lo increíble que eres. No sé qué haría sin ti, pero sí sé que contigo todo es mejor. Me encantas, me fascinas, y no hay nada que me haga más feliz que recordártelo. ❤️"
+    }
+  ]
+}
