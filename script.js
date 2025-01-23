@@ -24,6 +24,7 @@ const images = [
   'images/image23.webp',
   'images/image24.webp',
   'images/image25.jpeg',
+  'images/image26.webp',
 ];
 
 async function fetchPoems() {
