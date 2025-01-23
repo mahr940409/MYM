@@ -1,69 +1,101 @@
 /* General Styles */
 body {
-    font-family: 'Arial', sans-serif;
-    text-align: center;
-    margin: 10px;
-    background-color: #f9f9f9;
-    color: #333;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(120deg, #f6d365, #fda085);
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* Main Heading */
+h1 {
+  font-size: 2.5rem;
+  margin: 20px;
+  color: #fff;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Button Styles */
+button {
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  background: linear-gradient(45deg, #007BFF, #0056b3);
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  margin: 20px 0;
+}
+
+button:hover {
+  background: linear-gradient(45deg, #0056b3, #003d80);
+  transform: scale(1.1);
+  box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Container for the Image */
+#image-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.3);
+  margin: 20px auto;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+#image-container img:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* Container for the Poem */
+#poem-container {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 500px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 15px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.8;
+  word-wrap: break-word;
+  backdrop-filter: blur(5px);
+}
+
+#poem-container h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  color: #333;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+#poem-container p {
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  h1 {
+      font-size: 2rem;
   }
-  
-  /* Container for the Image */
-  #image-container img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    margin: 20px auto;
-    transition: transform 0.3s ease;
-  }
-  
-  #image-container img:hover {
-    transform: scale(1.05);
-  }
-  
-  /* Container for the Poem */
+
   #poem-container {
-    margin: 20px auto;
-    padding: 15px;
-    max-width: 400px;
-    background: linear-gradient(135deg, #ffffff, #f1f1f1);
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    text-align: justify;
-    font-size: 16px;
-    line-height: 1.6;
-    word-wrap: break-word;
+      padding: 15px;
+      font-size: 16px;
   }
-  
-  /* Button Styles */
+
   button {
-    padding: 12px 24px;
-    font-size: 16px;
-    cursor: pointer;
-    background-color: #007BFF;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    margin-top: 20px;
-  }
-  
-  button:hover {
-    background-color: #0056b3;
-    transform: scale(1.05);
-  }
-  
-  /* Responsive Design */
-  @media (max-width: 768px) {
-    #poem-container {
-      padding: 10px;
-      font-size: 14px;
-    }
-  
-    button {
       padding: 10px 20px;
       font-size: 14px;
-    }
   }
-  
+}
