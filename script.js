@@ -28,12 +28,14 @@ const images = [
   'images/image27.webp',
 ];
 
+// Cargar los poemas desde poemas.json
 async function fetchPoems() {
   const response = await fetch('poemas.json');
   const data = await response.json();
   return data.poemas; // Devuelve solo el array de poemas
 }
 
+// Botón: Mostrar poema e imagen aleatorios
 document.getElementById('random-button').addEventListener('click', async () => {
   // Imagen aleatoria
   const randomImage = images[Math.floor(Math.random() * images.length)];
@@ -48,4 +50,27 @@ document.getElementById('random-button').addEventListener('click', async () => {
     randomPoem.title || 'Sin título';
   document.getElementById('poem-content').textContent =
     randomPoem.content || 'Sin contenido';
+});
+
+// Botón: Mostrar todos los poemas e imágenes
+document.getElementById('view-all-button').addEventListener('click', async () => {
+  const poems = await fetchPoems(); // Obtener todos los poemas
+  const container = document.getElementById('all-content-container');
+  container.innerHTML = ''; // Limpiar el contenedor antes de agregar contenido nuevo
+
+  // Iterar sobre los poemas y las imágenes
+  poems.forEach((poem, index) => {
+    const poemElement = document.createElement('div');
+    poemElement.className = 'poem'; // Clase para estilizar, opcional
+    poemElement.innerHTML = `
+      <h2>${poem.title || 'Sin título'}</h2>
+      <p>${poem.content || 'Sin contenido'}</p>
+      ${
+        images[index]
+          ? `<img src="${images[index]}" alt="Imagen del poema ${index + 1}">`
+          : '<p>No hay imagen disponible.</p>'
+      }
+    `;
+    container.appendChild(poemElement);
+  });
 });
