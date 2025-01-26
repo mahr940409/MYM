@@ -26,6 +26,7 @@ const images = [
   'images/image25.jpeg',
   'images/image26.webp',
   'images/image27.webp',
+  'images/image28.png',
 ];
 
 // Cargar los poemas desde poemas.json
